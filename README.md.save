@@ -1,0 +1,20 @@
+# mujka-android
+# soma-mukja-android
+
+
+#### map & pio update했어요
+
+pio recommendation or pio similar 결과 보려면
+
+### recommendation
+1. MyECommerceRecommendation 들어가서 pio train - pio deploy해서 서버 켜고
+1. 맨 처음 페이지(UserActivity)에서 user_name(ex:이미정)이 아니라 usercreate하기 눌러서 나온 user_id값을 넣어야해여 ㅎㅎㅎㅎ
+1. 결과로 뜨는 값 역시 food_name이 아니라 food_id값입니다
+
+### similar
+1. MySimilarProduct 들어가서 pio train - pio deploy해서 서버 켜고
+1. 상세 페이지(ResultActivtyi)에서 similar버튼 누르면 되는데 결과는 마찬가지로 id값으로 뜰거에요
+
+
+오늘 중으로 in&output id말고 name으로 바꿀게여 ㅎㅎㅎ
+# soma-mukja-android
